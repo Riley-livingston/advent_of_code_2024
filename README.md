@@ -12,11 +12,14 @@ The repository is organized by days, with each day's challenges in their own dir
 
 ## Running the Solutions
 
-Each day's solution can be run using Python:
+Each day's solution can be run using Python or C++:
 
 ```bash
 cd day_1
 python solution.py
+
+cd day_2
+./solution
 ```
 
 ## Progress
