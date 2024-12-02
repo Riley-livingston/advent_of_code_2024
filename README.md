@@ -23,10 +23,12 @@ cd day_2
 ```
 
 ## Progress
-
 - [x] Day 1: Location ID Analysis
   - Part 1: Calculate total distance between two lists
   - Part 2: Calculate similarity score between lists
+- [x] Day 2: Reactor Safety Analysis
+  - Part 1: Count sequences with valid level changes
+  - Part 2: Analyze sequences with Problem Dampener module
 
 ## About Advent of Code
 
